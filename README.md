@@ -16,7 +16,7 @@ pip2 install requests
 pip2 install mechanize
 pip install bs4
 pkg install git
-git clone https://github.com/D1PTO-Official/TERMUX-FULL-SETUP`
+git clone https://github.com/MR-DIPTO-404/TERMUX-FULL-SETUP
 cd TERMUX-FULL-SETUP
 bash Setup.sh
 ```
