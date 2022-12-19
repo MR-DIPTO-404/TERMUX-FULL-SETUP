@@ -7,8 +7,8 @@
 
 # TERMUX-FULL-SETUP
 ```
-apt update
-apt upgrade
+pkg update
+pkg upgrade
 pip2 install mechanize
 pip2 install requests bs4
 pkg install python
